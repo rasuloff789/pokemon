@@ -22,3 +22,7 @@ img {
 h1 {
   font-weight: bold;
 }
+
+.pokemon-width {
+  width: 18rem;
+}
